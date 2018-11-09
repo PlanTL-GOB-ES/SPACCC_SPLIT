@@ -55,22 +55,30 @@ CoNLL-like column format where columns are:
 
 ## Corpus predictions
 
+The following three tables show the interagreement results measured on both the development and the validation corpus. See the inter-annotator agreement report (Informe_interagreement_CNIO_PlanTL_SEAD.pdf) included in folder iaain this repository for further details. The required minimum level was 99%.
+
 |                        | Split  | 
 | ---------------------- | ------ |
 | A1 vs A2               | 99,79% | 
 | A1 vs FL               | 99,37% | 
 | A2 vs FL               | 99,58% | 
-| Required minimum level | 99%    | 
+
+Table 1: Interagreement betwen the two human annotators and SPACCC_POS_TAGGER on the development corpus.
 
 
 |                        | Split  | 
 | ---------------------- | ------ |
 | GS vs FL               | 99,37% | 
-| Required minimum level | 99%    | 
+
+Table 2: Interagreement between the gold standard corpus and SPACCC_POS-TAGGER on the development corpus.
 
 
-See the inter-annotator agreement report (Informe_interagreement_CNIO_PlanTL_SEAD.pdf) included in folder `iaa`in this 
-repository for further details.
+|                        |  Split |
+| ---------------------- | ------ |
+| GS vs FL               | 99,52% |
+
+Table 3: Interagreement between the gold standard corpus and SPACCC_POS-TAGGER on the validation corpus.
+
 
 ## Annotation guidelines
 
