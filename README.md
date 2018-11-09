@@ -55,6 +55,23 @@ CoNLL-like column format where columns are:
 
 ## Corpus predictions
 
+|                        | Split  | 
+| ---------------------- | ------ |
+| A1 vs A2               | 99,79% | 
+| A1 vs FL               | 99,37% | 
+| A2 vs FL               | 99,58% | 
+| Required minimum level | 99%    | 
+
+
+|                        | Split  | 
+| ---------------------- | ------ |
+| GS vs FL               | 99,37% | 
+| Required minimum level | 99%    | 
+
+
+See the inter-annotator agreement report (Informe_interagreement_CNIO_PlanTL_SEAD.pdf) included in folder `iaa`in this 
+repository for further details.
+
 ## Annotation guidelines
 
 The annotation guidelines describe the criteria that have been followed to annotate the corpus, along with illustrative 
