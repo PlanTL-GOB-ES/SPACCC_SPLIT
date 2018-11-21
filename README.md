@@ -1,10 +1,15 @@
-# SPACCC_SPLIT: : Spanish Clinical Case Corpus - Sentence Splitting
+# SPACCC_SPLIT: Spanish Clinical Case Corpus - Sentence Splitting
 
 ## Introduction
 
 This repository contains the sentence splitting annotations in the Spanish Clinical Case Corpus that have been 
 carried out by means of the Spanish Clinical Case Corpus Part-of-Specch Tagger based on FreeLing3.1 
 (SPACCC_POS-TAGGER, https://github.com/PlanTL/SPACCC_POS-TAGGER).
+
+
+## Digital Object Identifier (DOI) and access to source files
+
+https://doi.org/10.5281/zenodo.1493455
 
 
 ## Repository structure
@@ -27,7 +32,7 @@ Script to convert FreeLing3.1 tabular output format into BRAT standoff format.
 
 ## Document selection
 
-he SPACCC corpus was created after collecting 1,000 clinical cases from SciELO (Scientific Electronic Library Online), 
+The SPACCC corpus was created after collecting 1,000 clinical cases from SciELO (Scientific Electronic Library Online), 
 an electronic library that gathers electronic publications of complete full text articles from scientific journals of 
 Latin America, South Africa and Spain (http://www.scielo.org).
 
