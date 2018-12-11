@@ -68,7 +68,10 @@ CoNLL-like column format, where columns are:
 * `TAG`: complete POS tag.
 * `PROBABILITY`: probability of the chosen tag.
 
-In the `.ann` file only Sentence Boundary Simbols are marked.
+
+## Annotation types
+
+In the `.ann` file only Sentence Boundary Simbols are marked and they are labeled with FreeLing's tag *Fp*.
 
 
 ## Corpus predictions
