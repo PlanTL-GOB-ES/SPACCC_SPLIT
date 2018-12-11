@@ -1,6 +1,6 @@
 # SPACCC_SPLIT: Spanish Clinical Case Corpus - Sentence Splitting
 
-## Digital Object Identifier (DOI) and access to source files
+## Digital Object Identifier (DOI) and access to dataset files
 
 https://doi.org/10.5281/zenodo.1493455
 
