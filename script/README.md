@@ -24,7 +24,7 @@ with the right privileges:
 apt install html2text
 </pre>
 
-NOTE: `ann/`, `entrada/`, and `originales/` and output folders must be created manually before running this script.
+NOTE: `ann/`, `entrada/`, `originales/` and output folders must be created manually before running this script.
 
 ### Troubleshooting
 
