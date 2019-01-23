@@ -24,22 +24,23 @@ In this repository:
 
 <pre>
 script/
-Script to convert FreeLing3.1 tabular output format into BRAT standoff format.
+  Script to convert FreeLing3.1 tabular output format into BRAT standoff format.
 </pre>
 
+This script is the same for `SPACCC_POS`, `SPACCC_SPLIT` and `SPACCC_TOKEN`, with the exception of minor changes in the documentation.
 
 In Zenodo:
 
 <pre>
 corpus/
-Original, development, validation and automatically annotated corpus, both in tabular format and BRAT 
+	Original, development, validation and automatically annotated corpus, both in tabular format and BRAT 
 standoff format.
 
 guidelines/
-Annotation guidelines.
+	Annotation guidelines.
 
 IAA/
-Inter-annotator agreement report, along with the data and the scripts used to calculate it. 
+	Inter-annotator agreement report, along with the data and the scripts used to calculate it. 
 </pre>
 
 
